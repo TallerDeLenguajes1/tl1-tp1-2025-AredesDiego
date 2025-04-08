@@ -1,1 +1,14 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/kl-E8VQf)
+--¿Por que? es conveniente incluirlo?--
+Los archivos .gitignore contienen patrones que establecen coincidencias con los nombres de archivo de tu repositorio para determinar si deberian ignorarse o no.
+
+--¿Cuando se debe hacer?--
+Los archivos .gitignore se usan para ignorar archivos y capetas que no se deben incluir en el control de versiones (Osea git).
+
+--¿Como configurar el archivo .gitignore?--
+1-Abre tu terminal o línea de comandos.
+2-Navega hasta la raíz de tu repositorio de Git.
+3-Escribe touch .gitignore y presiona Enter.
+4-Abre el nuevo archivo .gitignore en tu editor de texto preferido.
+5-Agrega las rutas de los archivos o directorios que quieres que Git ignore, cada una en una línea nueva.
+6-Guarda y cierra el archivo.
+
